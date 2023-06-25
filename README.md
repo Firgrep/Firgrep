@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi, I'm Filip ⚡
+
+Philosophy Teacher turned Software Developer.
+
+🔭 I’m currently working on a booking-system web app for a client.
+
+🌱 I’m currently learning TypeScript, Next.js, tRPC, NextAuth, Prisma (basically the T3 Stack) and Google Cloud.
 
 <!--
 **Firgrep/Firgrep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
