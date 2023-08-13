@@ -10,6 +10,7 @@ Philosophy Teacher turned Software Developer.
 
 🤔 To help my own understanding about the things I learn, I keep a [blog](https://www.filipniklas.com/#/blog) or I make [videos](https://www.youtube.com/channel/UCucr6RJk-jCqVYWtxJQ-2Ag) about it. 
 
+_<p align="right">Updated August 2023</p>_
 <!--
 **Firgrep/Firgrep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
