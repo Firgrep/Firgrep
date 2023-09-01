@@ -4,7 +4,7 @@ Philosophy Teacher turned Software Developer.
 
 🔭 I’m currently working towards a Google Cloud Associate Cloud Engineer certification.
 
-🌱 I’m building a course platform web app using the new "App router" in Next.js with "Server Components" from React.js (in TypeScript), and learning Rust for fun. 
+🌱 As part of a collaborative project, I’m building a course platform web app using the new "App router" in Next.js with "Server Components" from React.js (in TypeScript). And I'm learning Rust for fun. 
 
 ✅ I recently ended a project that was about building a booking-system web app for a client written in TypeScript using Next.js, NextAuth, tRPC, Prisma (basically the T3 Stack), Docker and GCP. 
 
