@@ -2,15 +2,13 @@
 
 Philosophy Teacher turned Software Developer.
 
-🔭 I’m currently working towards a Google Cloud Associate Cloud Engineer certification.
+💼 I work as a Full Stack Developer at [Solgt.no](https://solgt.no).
 
 🌱 As part of a collaborative project, I’m building a course platform web app using the new "App router" in Next.js with "Server Components" from React.js (in TypeScript). And I'm learning Rust for fun. 
 
-✅ I recently ended a project that was about building a booking-system web app for a client written in TypeScript using Next.js, NextAuth, tRPC, Prisma (basically the T3 Stack), Docker and GCP. 
+🤔 To help my own understanding about the things I learn, I keep [some notes]([https://www.filipniklas.com/#/blog](https://www.filipniklas.com/programming/) or I make [videos](https://www.youtube.com/channel/UCucr6RJk-jCqVYWtxJQ-2Ag) about it. 
 
-🤔 To help my own understanding about the things I learn, I keep a [blog](https://www.filipniklas.com/#/blog) or I make [videos](https://www.youtube.com/channel/UCucr6RJk-jCqVYWtxJQ-2Ag) about it. 
-
-_<p align="right">Updated September 2023</p>_
+_<p align="right">Updated February 2024</p>_
 <!--
 **Firgrep/Firgrep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
