@@ -6,7 +6,7 @@ Philosophy Teacher turned Software Developer.
 
 🌱 As part of a collaborative project, I’m building a course platform web app using the new "App router" in Next.js with "Server Components" from React.js (in TypeScript). And I'm learning Rust for fun. 
 
-🤔 To help my own understanding about the things I learn, I keep [some notes](https://www.filipniklas.com/programming/) or I make [videos](https://www.youtube.com/channel/UCucr6RJk-jCqVYWtxJQ-2Ag) about it. 
+🤔 I keep [some notes](https://www.filipniklas.com/programming/) to help my own understanding about the things I learn.
 
 _<p align="right">Updated February 2024</p>_
 <!--
